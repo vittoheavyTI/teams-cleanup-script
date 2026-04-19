@@ -1,4 +1,4 @@
-# Clean-MSTeams (Nuclear Edition) 🚀
+# Clean-MSTeams 🚀
 
 Script PowerShell profissional para realizar uma limpeza **literalmente completa** do Microsoft Teams, instalar a versão mais recente e reiniciar o computador automaticamente.
 
